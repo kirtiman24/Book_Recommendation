@@ -20,7 +20,7 @@ We worked with a sample of the dataset for item and user based collaborative fil
 
 EDA Was also performed to gain particular insights with regarding to the following categories:
 
-1)Top-7 books with most number of ratings
+1)Top-7 books with the most number of ratings
 
 2)Top-10 books with most number of text reviews
 
