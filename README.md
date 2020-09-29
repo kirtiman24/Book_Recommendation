@@ -14,3 +14,11 @@ Approach :
 
 First we looked into content-based recommendation. The dataset did not contain the synopsis of the books to use content-based recommendation and hence moved on to collaborative based recommendations.
 We worked with a sample of the dataset for item and user based collaborative filtering using Cosine similarity and correlation were used to find similarity between items/users.
+
+Exploratory data Anayis:
+
+EDA Was also performed to gain particular insights with regarding to the following categories:
+
+1)Top-7 books with most number of ratings.
+2)Top-10 books with most number of text reviews.
+3)Top 10 authors with most books.
